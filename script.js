@@ -443,7 +443,7 @@ function syncUpdateButton() {
   const dirty =
     dateInput.value !== appliedFilters.date ||
     +rangeInput.value !== appliedFilters.minCount;
-  btn.disabled = dirty || isUpdating;
+  btn.enabled = dirty || isUpdating;
 }
 
 function onFiltersChanged() {

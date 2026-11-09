@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Прототип</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <!-- Фильтры оставляем как были -->
+  <div>
+    <label>Дата: 
+      <input type="date" id="filter-date"
+        oninput="onFiltersChanged()"
+        onchange="onFiltersChanged()">
+    </label>
+    <label>Мин. численность: 
+      <input type="range" min="200" max="1000" value="200" id="filter-min-count"
+        oninput="onFiltersChanged()"
+        onchange="onFiltersChanged()">
+      <output id="filter-min-count-value">200</output>
+    </label>
+    <button type="button" id="btn-update"
+      onclick="onUpdateClick()"
+      disabled>Обновить</button>
+  </div>
+
+  <div id="status" role="status" aria-live="polite"></div>
+
+  <!-- ОДИН общий фрейм для всей таблицы -->
+  <div class="table-wrapper">
+    <table>
+      <!-- Ширины колонок задаются один раз -->
+      <colgroup>
+        <col style="width:60px">
+        <col style="width:240px">
+        <col style="width:110px">
+        <col span="2" style="width:80px">
+        <col span="2" style="width:80px">
+        <col span="2" style="width:80px">
+        <col span="2" style="width:80px">
+        <col span="2" style="width:80px">
+        <col style="width:110px">
+        <col style="width:130px">
+      </colgroup>
+
+      <thead>
+        <tr>
+          <th rowspan="2">№ п/п</th>
+          <th rowspan="2">Название</th>
+          <th rowspan="2">Численность</th>
+          <th colspan="2">Рост за сутки</th>
+          <th colspan="2">Рост за неделю (с понедельника)</th>
+          <th colspan="2">Рост за месяц (с начала)</th>
+          <th colspan="2">Рост за квартал (с начала)</th>
+          <th colspan="2">Рост за год (с начала)</th>
+          <th rowspan="2">Архетип</th>
+          <th rowspan="2">Ссылка</th>
+        </tr>
+        <tr>
+          <th>числ.</th><th>поз.</th>
+          <th>числ.</th><th>поз.</th>
+          <th>числ.</th><th>поз.</th>
+          <th>числ.</th><th>поз.</th>
+          <th>числ.</th><th>поз.</th>
+        </tr>
+      </thead>
+
+      <tbody id="data-body">
+      </tbody>
+    </table>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

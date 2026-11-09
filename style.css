@@ -1,0 +1,72 @@
+body { 
+    margin: 0; padding: 10px; font-family: sans-serif; 
+}
+
+/* Контейнер, который прокручивается */
+.table-wrapper {
+    height: 900px;
+    overflow-y: auto; 
+    border: 1px solid #999; /* Общая рамка для красоты */
+}
+
+/* Единая таблица */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed; /* Фиксируем колонки */
+}
+
+/* Ячейки */
+th, td {
+    border: 1px solid #999;
+    padding: 6px;
+    text-align: center;
+}
+
+td:nth-child(2) { 
+    text-align: left; 
+} /* Название по левому краю */
+
+/* 1. Общие стили для липкой шапки и фона */
+thead th {
+    position: sticky;
+    background-color: #f1f5f9; /* Обязательно, иначе текст будет просвечивать */
+    z-index: 10;
+    box-shadow: inset 0 0 0 1px #999, inset 0 -1px 0 #999; 
+}
+
+/* 2. Первая строка шапки (где "Рост за сутки" и т.д.) липнет к самому верху */
+thead tr:nth-child(1) th {
+    top: 0;
+    z-index: 11; /* Чуть выше, чтобы перекрывать вторую строку */
+}
+
+/* 3. Вторая строка шапки (где "числ." и "поз.") липнет под первой */
+thead tr:nth-child(2) th {
+    top: 53px; /* Высота первой строки. Если текст съезжает — подгоните это число (например, 38px или 45px) */
+    z-index: 10;
+}
+/* Класс для красного треугольника (вверх) */
+.trend-up {
+    color: #2e7d32; /* Насыщенный зеленый */
+    font-weight: bold;
+}
+
+/* Класс для синего треугольника (вниз) */
+.trend-down {
+    color: #c62828; /* Насыщенный красный */
+    font-weight: bold;
+}    
+
+tbody tr:nth-child(even) {
+    background-color: #fafbfc;
+}
+/* Чтобы зебра не перебивала ховер-эффект, добавим: */
+tbody tr:nth-child(even):hover {
+    background-color: #f1f5f9;
+}
+
+tbody tr:hover {
+    background-color: #f8fafc; /* Легкий сероватый оттенок */
+    transition: background-color 0.2s ease;
+}

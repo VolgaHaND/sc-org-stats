@@ -422,9 +422,10 @@ async function update() {
     appliedFilters.date = dateStr;
     appliedFilters.minCount = minCount;
 
-    setStatus(`Дата: ${dateStr} · опорные: вчера ${refDates.yesterday}, пн ${refDates.monday}, ` +
-              `мес ${refDates.monthStart}, кв ${refDates.quarterStart}, год ${refDates.yearStart} · ` +
-              `организаций в дампе: ${tagIndex.size}`);
+//    setStatus(`Дата: ${dateStr} · опорные: вчера ${refDates.yesterday}, пн ${refDates.monday}, ` +
+//              `мес ${refDates.monthStart}, кв ${refDates.quarterStart}, год ${refDates.yearStart} · ` +
+//              `организаций в дампе: ${tagIndex.size}`);
+
   } catch (err) {
     console.error(err);
     setStatus(`Ошибка: ${err.message}`, true);

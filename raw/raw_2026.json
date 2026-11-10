@@ -151447,5 +151447,417 @@
       "count": 114,
       "archetype": 3
     }
+  },
+  "2026-11-10": {
+    "TEST": {
+      "name": "TEST Squadron - Best Squardon!",
+      "count": 24643,
+      "archetype": 1
+    },
+    "NOVAEN": {
+      "name": "NOVA Intergalactic",
+      "count": 17031,
+      "archetype": 1
+    },
+    "CORP": {
+      "name": "The Corporation",
+      "count": 14846,
+      "archetype": 2
+    },
+    "EVILORG": {
+      "name": "Evil Organized",
+      "count": 13568,
+      "archetype": 5
+    },
+    "ADI": {
+      "name": "Atlas Defense Industries",
+      "count": 11965,
+      "archetype": 1
+    },
+    "TBSI": {
+      "name": "Black Star Initiative",
+      "count": 6023,
+      "archetype": 3
+    },
+    "KNEBELARMY": {
+      "name": "STARHEAD FEDERATION",
+      "count": 5498,
+      "archetype": 1
+    },
+    "LUG": {
+      "name": "Linux Users Group",
+      "count": 5132,
+      "archetype": 4
+    },
+    "MEDRUNNER": {
+      "name": "MEDRUNNER SERVICES",
+      "count": 5075,
+      "archetype": 2
+    },
+    "ITCN": {
+      "name": "ITC - Interstellar Trading Corporation",
+      "count": 4490,
+      "archetype": 2
+    },
+    "VDN": {
+      "name": "Venden",
+      "count": 4310,
+      "archetype": 1
+    },
+    "UEMC": {
+      "name": "United Earth Mining Corporation",
+      "count": 3605,
+      "archetype": 2
+    },
+    "TURBOR": {
+      "name": "TURBOR Corp",
+      "count": 3489,
+      "archetype": 2
+    },
+    "WANDERHOME": {
+      "name": "Sanctuary of Wanderhome",
+      "count": 3387,
+      "archetype": 1
+    },
+    "COGNITION": {
+      "name": "Cognition Corp",
+      "count": 3121,
+      "archetype": 2
+    },
+    "RUSCOM": {
+      "name": "Русскоязычное сообщество",
+      "count": 2872,
+      "archetype": 6
+    },
+    "COBROFORCE": {
+      "name": "Cobro Force",
+      "count": 2430,
+      "archetype": 1
+    },
+    "YANHUANG": {
+      "name": "炎黃艦隊",
+      "count": 2280,
+      "archetype": 4
+    },
+    "GLADIATORS": {
+      "name": "GLADIATORS - Ex Unitate Vires",
+      "count": 2256,
+      "archetype": 3
+    },
+    "ZAP": {
+      "name": "Zenith Armada Project: Australia and East Asia",
+      "count": 2173,
+      "archetype": 3
+    },
+    "PXP": {
+      "name": "PLANET EXPRESS CREW:  Weekly events and Snu Snu!",
+      "count": 2103,
+      "archetype": 1
+    },
+    "HVC": {
+      "name": "HYPERION VANGUARD CORPORATION",
+      "count": 1944,
+      "archetype": 2
+    },
+    "STARRAIL": {
+      "name": "StarRail",
+      "count": 1726,
+      "archetype": 1
+    },
+    "ZILLA": {
+      "name": "Zilla Dropship Forces",
+      "count": 1411,
+      "archetype": 1
+    },
+    "MTK": {
+      "name": "Malfunctioning, Timeworn or Kaput",
+      "count": 1217,
+      "archetype": 2
+    },
+    "SIBYLLA": {
+      "name": "Sibylla",
+      "count": 1179,
+      "archetype": 2
+    },
+    "DIAMANT": {
+      "name": "Diamant",
+      "count": 1131,
+      "archetype": 1
+    },
+    "ARKAORG": {
+      "name": "ARKA",
+      "count": 1084,
+      "archetype": 1
+    },
+    "ODINT": {
+      "name": "Odyssey Interstellar",
+      "count": 1022,
+      "archetype": 1
+    },
+    "7HILLS": {
+      "name": "7Hills Industries",
+      "count": 1021,
+      "archetype": 2
+    },
+    "S1NISTER": {
+      "name": "SINISTER INCORPORATED",
+      "count": 986,
+      "archetype": 5
+    },
+    "SHADOWFOX": {
+      "name": "SFOX",
+      "count": 968,
+      "archetype": 3
+    },
+    "TDKD": {
+      "name": "Thunder Kingdom",
+      "count": 960,
+      "archetype": 1
+    },
+    "EVLE": {
+      "name": "Even Legion",
+      "count": 905,
+      "archetype": 1
+    },
+    "STAREMPIRE": {
+      "name": "Star Empire",
+      "count": 868,
+      "archetype": 1
+    },
+    "ZENOIDUL": {
+      "name": "The Fireplace",
+      "count": 845,
+      "archetype": 1
+    },
+    "ALFILO": {
+      "name": "ALFILO",
+      "count": 807,
+      "archetype": 1
+    },
+    "ACTIVEE": {
+      "name": "Believe Nation",
+      "count": 785,
+      "archetype": 3
+    },
+    "LATAMORG": {
+      "name": "LATAM",
+      "count": 784,
+      "archetype": 1
+    },
+    "ARCA": {
+      "name": "ARCA",
+      "count": 763,
+      "archetype": 2
+    },
+    "TEXAS": {
+      "name": "TEXAS",
+      "count": 699,
+      "archetype": 1
+    },
+    "UNI0N": {
+      "name": "ShadowFox Outreach",
+      "count": 695,
+      "archetype": 3
+    },
+    "PR0": {
+      "name": "pr0citizen",
+      "count": 647,
+      "archetype": 1
+    },
+    "RUINOUS": {
+      "name": "Ruinous",
+      "count": 476,
+      "archetype": 3
+    },
+    "GBRS": {
+      "name": "MORNINGSTAR_DYNAMICS",
+      "count": 455,
+      "archetype": 1
+    },
+    "PALCORPS": {
+      "name": "PALADIN CORPORATION",
+      "count": 443,
+      "archetype": 2
+    },
+    "NSPC": {
+      "name": "Northern Star",
+      "count": 430,
+      "archetype": 1
+    },
+    "RONINROUGH": {
+      "name": "Ronin's Roughnecks",
+      "count": 428,
+      "archetype": 3
+    },
+    "FAMILIAST": {
+      "name": "Familia stanton",
+      "count": 410,
+      "archetype": 1
+    },
+    "STARCLUBCN": {
+      "name": "星际酒馆StarClub",
+      "count": 395,
+      "archetype": 6
+    },
+    "GREEKSA": {
+      "name": "GREEK AEROSPACE AGENCY",
+      "count": 395,
+      "archetype": 1
+    },
+    "CATCOM": {
+      "name": "Catalan Company",
+      "count": 370,
+      "archetype": 1
+    },
+    "BELAS": {
+      "name": "Belli Artes",
+      "count": 326,
+      "archetype": 2
+    },
+    "OLIGROUP": {
+      "name": "The Olisar Group",
+      "count": 305,
+      "archetype": 2
+    },
+    "BRTE": {
+      "name": "Blackrock",
+      "count": 302,
+      "archetype": 3
+    },
+    "TLEA": {
+      "name": "The League",
+      "count": 298,
+      "archetype": 1
+    },
+    "KERNAVY": {
+      "name": "Kerberos",
+      "count": 273,
+      "archetype": 3
+    },
+    "VIKINGS": {
+      "name": "Vikings",
+      "count": 272,
+      "archetype": 5
+    },
+    "ONXI": {
+      "name": "Onyx Initiative",
+      "count": 235,
+      "archetype": 2
+    },
+    "PHOENIX131": {
+      "name": "Phoenix Defense Corps",
+      "count": 215,
+      "archetype": 3
+    },
+    "CHAOTIK": {
+      "name": "CHAOTIK",
+      "count": 207,
+      "archetype": 1
+    },
+    "ANYWHEREXP": {
+      "name": "哪都通",
+      "count": 203,
+      "archetype": 2
+    },
+    "ARMOREDDIV": {
+      "name": "Armored Division",
+      "count": 198,
+      "archetype": 3
+    },
+    "OLDMENCLUB": {
+      "name": "Old Mens Club",
+      "count": 185,
+      "archetype": 6
+    },
+    "SERR": {
+      "name": "The Seraphim",
+      "count": 184,
+      "archetype": 4
+    },
+    "BLSK": {
+      "name": "BlackSky",
+      "count": 156,
+      "archetype": 2
+    },
+    "SCILTD": {
+      "name": "StarCross Industries",
+      "count": 156,
+      "archetype": 2
+    },
+    "DREAMJOURN": {
+      "name": "斯曼达洛",
+      "count": 153,
+      "archetype": 1
+    },
+    "AIMOS": {
+      "name": "A.I.M.O.S",
+      "count": 152,
+      "archetype": 5
+    },
+    "UEEN22EF": {
+      "name": "UEE Navy 22nd Expeditionary Fleet",
+      "count": 147,
+      "archetype": 3
+    },
+    "AVALONINIT": {
+      "name": "Avalon Initiative",
+      "count": 146,
+      "archetype": 1
+    },
+    "III": {
+      "name": "Icarus Interstellar Incorporated",
+      "count": 144,
+      "archetype": 2
+    },
+    "REBLRAC": {
+      "name": "REBEL RACCOONS",
+      "count": 141,
+      "archetype": 3
+    },
+    "HYPERNOVA": {
+      "name": "UNITED HYPERNOVA",
+      "count": 138,
+      "archetype": 1
+    },
+    "XINGCHEN": {
+      "name": "南天门星际舰队",
+      "count": 134,
+      "archetype": 1
+    },
+    "RSQ": {
+      "name": "Rogue Squadron",
+      "count": 134,
+      "archetype": 3
+    },
+    "TIREDDADS": {
+      "name": "Tired Dad Gamers",
+      "count": 126,
+      "archetype": 5
+    },
+    "HYPR": {
+      "name": "Hyperion Interstellar",
+      "count": 120,
+      "archetype": 3
+    },
+    "IDDI": {
+      "name": "Diamond Dogs",
+      "count": 120,
+      "archetype": 3
+    },
+    "CVBG12": {
+      "name": "U.E.E.N 12th Battle Group",
+      "count": 117,
+      "archetype": 1
+    },
+    "FDIS": {
+      "name": "Frontier Defense Industries",
+      "count": 115,
+      "archetype": 2
+    },
+    "GHSTSABRDN": {
+      "name": "Ghosts of Aberdeen",
+      "count": 109,
+      "archetype": 5
+    }
   }
 }

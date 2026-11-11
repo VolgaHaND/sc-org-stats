@@ -518,7 +518,7 @@ function buildRow(org, d) {
     <td>${formatCountDelta(d.month.count)}</td><td>${formatRankDelta(d.month.rank)}</td>
     <td>${formatCountDelta(d.quarter.count)}</td><td>${formatRankDelta(d.quarter.rank)}</td>
     <td>${formatCountDelta(d.year.count)}</td><td>${formatRankDelta(d.year.rank)}</td>
-    <td>${archetype}</td>
+    <td>${lang}</td>
     <td><a href="${href}" target="_blank" rel="noopener">${escapeHtml(tag)}</a></td>
   </tr>`;
 }

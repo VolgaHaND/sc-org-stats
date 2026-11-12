@@ -182570,5 +182570,793 @@
       "archetype": 6,
       "lang": "en"
     }
+  },
+  "2026-11-12": {
+    "NOVAEN": {
+      "name": "NOVA Intergalactic",
+      "count": 17035,
+      "archetype": "1",
+      "lang": ""
+    },
+    "CORP": {
+      "name": "The Corporation",
+      "count": 14843,
+      "archetype": "2",
+      "lang": ""
+    },
+    "EVILORG": {
+      "name": "Evil Organized",
+      "count": 13566,
+      "archetype": "5",
+      "lang": ""
+    },
+    "ADI": {
+      "name": "Atlas Defense Industries",
+      "count": 11966,
+      "archetype": "1",
+      "lang": ""
+    },
+    "TBSI": {
+      "name": "Black Star Initiative",
+      "count": 6024,
+      "archetype": "3",
+      "lang": ""
+    },
+    "KNEBELARMY": {
+      "name": "STARHEAD FEDERATION",
+      "count": 5497,
+      "archetype": "1",
+      "lang": ""
+    },
+    "LUG": {
+      "name": "Linux Users Group",
+      "count": 5134,
+      "archetype": "4",
+      "lang": ""
+    },
+    "MEDRUNNER": {
+      "name": "MEDRUNNER SERVICES",
+      "count": 5076,
+      "archetype": "2",
+      "lang": ""
+    },
+    "AVOCADO": {
+      "name": "Evocati - NDA",
+      "count": 5013,
+      "archetype": "4",
+      "lang": ""
+    },
+    "ITCN": {
+      "name": "ITC - Interstellar Trading Corporation",
+      "count": 4494,
+      "archetype": "2",
+      "lang": ""
+    },
+    "IMPERIUM": {
+      "name": "Imperium",
+      "count": 4187,
+      "archetype": "1",
+      "lang": ""
+    },
+    "SRN": {
+      "name": "Horizon Interstellar",
+      "count": 3293,
+      "archetype": "1",
+      "lang": ""
+    },
+    "ITALIA": {
+      "name": "Alleanza Astrale",
+      "count": 2876,
+      "archetype": "4",
+      "lang": ""
+    },
+    "ARMCO": {
+      "name": "Armitage Free Company",
+      "count": 2583,
+      "archetype": "1",
+      "lang": ""
+    },
+    "GLADIATORS": {
+      "name": "GLADIATORS - Ex Unitate Vires",
+      "count": 2255,
+      "archetype": "3",
+      "lang": ""
+    },
+    "ZAP": {
+      "name": "Zenith Armada Project: Australia and East Asia",
+      "count": 2174,
+      "archetype": "3",
+      "lang": ""
+    },
+    "PXP": {
+      "name": "PLANET EXPRESS CREW:  Weekly events and Snu Snu!",
+      "count": 2105,
+      "archetype": "1",
+      "lang": ""
+    },
+    "HVC": {
+      "name": "HYPERION VANGUARD CORPORATION",
+      "count": 1942,
+      "archetype": "2",
+      "lang": ""
+    },
+    "XVILEGION": {
+      "name": "Luna Wolves",
+      "count": 1830,
+      "archetype": "3",
+      "lang": ""
+    },
+    "DIAMANT": {
+      "name": "Diamant",
+      "count": 1135,
+      "archetype": "1",
+      "lang": ""
+    },
+    "CONVOY": {
+      "name": "The Convoy&trade;",
+      "count": 1000,
+      "archetype": "1",
+      "lang": ""
+    },
+    "SHADOWFOX": {
+      "name": "SFOX",
+      "count": 968,
+      "archetype": "3",
+      "lang": ""
+    },
+    "CZSK": {
+      "name": "SC Cesko - Slovensko",
+      "count": 919,
+      "archetype": "1",
+      "lang": ""
+    },
+    "EVLE": {
+      "name": "Even Legion",
+      "count": 909,
+      "archetype": "1",
+      "lang": ""
+    },
+    "FRCN": {
+      "name": "Frontier Consolidated",
+      "count": 903,
+      "archetype": "1",
+      "lang": ""
+    },
+    "MERCCORP": {
+      "name": "M.E.R.C. Corporation",
+      "count": 870,
+      "archetype": "2",
+      "lang": ""
+    },
+    "ZENOIDUL": {
+      "name": "The Fireplace",
+      "count": 844,
+      "archetype": "1",
+      "lang": ""
+    },
+    "FRONTEIRA": {
+      "name": "NOVA FRONTEIRA",
+      "count": 810,
+      "archetype": "1",
+      "lang": ""
+    },
+    "SCGLOBAL": {
+      "name": "S.C.Global",
+      "count": 810,
+      "archetype": "1",
+      "lang": ""
+    },
+    "TOG": {
+      "name": "The Older Gamers",
+      "count": 799,
+      "archetype": "3",
+      "lang": ""
+    },
+    "ACTIVEE": {
+      "name": "Believe Nation",
+      "count": 789,
+      "archetype": "3",
+      "lang": ""
+    },
+    "LATAMORG": {
+      "name": "LATAM",
+      "count": 784,
+      "archetype": "1",
+      "lang": ""
+    },
+    "NJG": {
+      "name": "SHATAGON [CASUAL]",
+      "count": 759,
+      "archetype": "2",
+      "lang": ""
+    },
+    "GOKTURK": {
+      "name": "The Celestial Turks",
+      "count": 667,
+      "archetype": "1",
+      "lang": ""
+    },
+    "ATMOSFER": {
+      "name": "ATMOSFER",
+      "count": 645,
+      "archetype": "1",
+      "lang": ""
+    },
+    "EGAL": {
+      "name": "EMPIRE GALACTIQUE",
+      "count": 619,
+      "archetype": "3",
+      "lang": ""
+    },
+    "FORSCIENCE": {
+      "name": "For Science",
+      "count": 611,
+      "archetype": "1",
+      "lang": ""
+    },
+    "FCU": {
+      "name": "FORCE COLONIALE UNIFIEE",
+      "count": 596,
+      "archetype": "3",
+      "lang": ""
+    },
+    "AAWA": {
+      "name": "Austrian Agency for World Architects",
+      "count": 456,
+      "archetype": "2",
+      "lang": ""
+    },
+    "NSPC": {
+      "name": "Northern Star",
+      "count": 431,
+      "archetype": "1",
+      "lang": ""
+    },
+    "TBAC": {
+      "name": "The British Are Coming",
+      "count": 416,
+      "archetype": "1",
+      "lang": ""
+    },
+    "FAMILIAST": {
+      "name": "Familia stanton",
+      "count": 411,
+      "archetype": "1",
+      "lang": ""
+    },
+    "STARCLUBCN": {
+      "name": "星际酒馆StarClub",
+      "count": 399,
+      "archetype": "6",
+      "lang": ""
+    },
+    "BWC": {
+      "name": "Black Widow Company",
+      "count": 367,
+      "archetype": "3",
+      "lang": ""
+    },
+    "REDANDBLK": {
+      "name": "Red and Black Coalition",
+      "count": 357,
+      "archetype": "5",
+      "lang": ""
+    },
+    "BELAS": {
+      "name": "Belli Artes",
+      "count": 328,
+      "archetype": "2",
+      "lang": ""
+    },
+    "C3RB": {
+      "name": "Citizens of Cerberus",
+      "count": 309,
+      "archetype": "5",
+      "lang": ""
+    },
+    "OLIGROUP": {
+      "name": "The Olisar Group",
+      "count": 306,
+      "archetype": "2",
+      "lang": ""
+    },
+    "UTAD": {
+      "name": "United Terran Assembly for Democracy",
+      "count": 297,
+      "archetype": "1",
+      "lang": ""
+    },
+    "LACOLMENA": {
+      "name": "La Colmena",
+      "count": 288,
+      "archetype": "5",
+      "lang": ""
+    },
+    "UNARAS": {
+      "name": "Unified Armistice Association",
+      "count": 267,
+      "archetype": "1",
+      "lang": ""
+    },
+    "PERMAFLEET": {
+      "name": "PERMAFLEET",
+      "count": 264,
+      "archetype": "1",
+      "lang": ""
+    },
+    "DRNL": {
+      "name": "Dutch Republic",
+      "count": 246,
+      "archetype": "1",
+      "lang": ""
+    },
+    "CHINESE": {
+      "name": "华人联合",
+      "count": 245,
+      "archetype": "1",
+      "lang": ""
+    },
+    "SDGS": {
+      "name": "SHADOW GUARDIANS",
+      "count": 233,
+      "archetype": "1",
+      "lang": ""
+    },
+    "DNRCORP": {
+      "name": "DAWNSTAR corporation",
+      "count": 223,
+      "archetype": "3",
+      "lang": ""
+    },
+    "BLKWATER": {
+      "name": "BLACKWATER",
+      "count": 208,
+      "archetype": "5",
+      "lang": ""
+    },
+    "RSNM": {
+      "name": "Redscar Nomads",
+      "count": 205,
+      "archetype": "5",
+      "lang": ""
+    },
+    "IMPARMS": {
+      "name": "Imperial Arms",
+      "count": 205,
+      "archetype": "2",
+      "lang": ""
+    },
+    "SIVISPACEM": {
+      "name": "PARA BELLUM",
+      "count": 193,
+      "archetype": "2",
+      "lang": ""
+    },
+    "ANGRYBIRDS": {
+      "name": "Angry Birds - PORTUGAL",
+      "count": 173,
+      "archetype": "4",
+      "lang": ""
+    },
+    "AIPOCH": {
+      "name": "Airborne Pork Chops - Polska Organizacja",
+      "count": 171,
+      "archetype": "1",
+      "lang": ""
+    },
+    "FENRIRSC": {
+      "name": "Fenrir Operations Group",
+      "count": 164,
+      "archetype": "1",
+      "lang": ""
+    },
+    "SCILTD": {
+      "name": "StarCross Industries",
+      "count": 157,
+      "archetype": "2",
+      "lang": ""
+    },
+    "DREAMJOURN": {
+      "name": "斯曼达洛",
+      "count": 156,
+      "archetype": "1",
+      "lang": ""
+    },
+    "TURUL": {
+      "name": "Hungarian Space Corporation",
+      "count": 156,
+      "archetype": "2",
+      "lang": ""
+    },
+    "STARSYSS": {
+      "name": "Starlight Systems",
+      "count": 151,
+      "archetype": "1",
+      "lang": ""
+    },
+    "UNITEDFSC": {
+      "name": "UNITED FLEET SPACE COMMAND",
+      "count": 150,
+      "archetype": "1",
+      "lang": ""
+    },
+    "C5C": {
+      "name": "ChAo5 Crew",
+      "count": 143,
+      "archetype": "1",
+      "lang": ""
+    },
+    "SPACEWHLE": {
+      "name": "Hit the Nail on the Space Whale",
+      "count": 140,
+      "archetype": "3",
+      "lang": ""
+    },
+    "CNZHSC": {
+      "name": "SC Liberty Alliance CN",
+      "count": 139,
+      "archetype": "1",
+      "lang": ""
+    },
+    "RFFR": {
+      "name": "Renegade Outlaws",
+      "count": 135,
+      "archetype": "6",
+      "lang": ""
+    },
+    "HYPR": {
+      "name": "Hyperion Interstellar",
+      "count": 119,
+      "archetype": "3",
+      "lang": ""
+    },
+    "RAGTAGS": {
+      "name": "Ragtag Mercs",
+      "count": 112,
+      "archetype": "3",
+      "lang": ""
+    },
+    "GHSTSABRDN": {
+      "name": "Ghosts of Aberdeen",
+      "count": 110,
+      "archetype": "5",
+      "lang": ""
+    },
+    "NOYEAH": {
+      "name": "No? Yeah! Agency",
+      "count": 106,
+      "archetype": "2",
+      "lang": ""
+    },
+    "RTBG": {
+      "name": "Ring Tailed Bandits",
+      "count": 106,
+      "archetype": "5",
+      "lang": ""
+    },
+    "TRIPLER": {
+      "name": "Triple R",
+      "count": 106,
+      "archetype": "2",
+      "lang": ""
+    },
+    "NIGHTDRACO": {
+      "name": "Nachtmeister's Drachen",
+      "count": 106,
+      "archetype": "1",
+      "lang": ""
+    },
+    "VANDUULS": {
+      "name": "Vanduul Swarm",
+      "count": 106,
+      "archetype": "5",
+      "lang": ""
+    },
+    "UACOM": {
+      "name": "Ukrainian Community",
+      "count": 106,
+      "archetype": "6",
+      "lang": ""
+    },
+    "SNEK": {
+      "name": "Vipera Veil",
+      "count": 106,
+      "archetype": "1",
+      "lang": ""
+    },
+    "HELLSING": {
+      "name": "Hellsing Agency",
+      "count": 106,
+      "archetype": "1",
+      "lang": ""
+    },
+    "BLK": {
+      "name": "Black Flag",
+      "count": 106,
+      "archetype": "5",
+      "lang": ""
+    },
+    "SHABAK": {
+      "name": "No Piracy !",
+      "count": 105,
+      "archetype": "3",
+      "lang": ""
+    },
+    "LIETUVIS": {
+      "name": "Lithuanian Star Citizen",
+      "count": 105,
+      "archetype": "4",
+      "lang": ""
+    },
+    "MIKKEI": {
+      "name": "MIKKEI COMBINE eXp_LP",
+      "count": 105,
+      "archetype": "1",
+      "lang": ""
+    },
+    "XEBON": {
+      "name": "Xebon Interstellar",
+      "count": 105,
+      "archetype": "1",
+      "lang": ""
+    },
+    "MONGRELSQD": {
+      "name": "Mongrel Squad",
+      "count": 105,
+      "archetype": "5",
+      "lang": ""
+    },
+    "ADDICTION": {
+      "name": "Addiction",
+      "count": 105,
+      "archetype": "3",
+      "lang": ""
+    },
+    "SPACESEALS": {
+      "name": "Dutch Space Seals",
+      "count": 104,
+      "archetype": "3",
+      "lang": ""
+    },
+    "J0K3R5": {
+      "name": "Jokers Gambit",
+      "count": 104,
+      "archetype": "3",
+      "lang": ""
+    },
+    "FSPOTATOES": {
+      "name": "Friendly Space Potatoes",
+      "count": 104,
+      "archetype": "1",
+      "lang": ""
+    },
+    "813950152": {
+      "name": "magnum-梦龙",
+      "count": 104,
+      "archetype": "2",
+      "lang": ""
+    },
+    "DAGE": {
+      "name": "Dutch Space Agency",
+      "count": 104,
+      "archetype": "1",
+      "lang": ""
+    },
+    "SUSPENDED": {
+      "name": "Suspended",
+      "count": 104,
+      "archetype": "1",
+      "lang": ""
+    },
+    "JUMPACCORD": {
+      "name": "The Jump Accord",
+      "count": 104,
+      "archetype": "4",
+      "lang": ""
+    },
+    "TRG": {
+      "name": "TRG Gaming",
+      "count": 104,
+      "archetype": "3",
+      "lang": ""
+    },
+    "ATRAX": {
+      "name": "Autonomous Transport, Recon. and eXploration",
+      "count": 104,
+      "archetype": "2",
+      "lang": ""
+    },
+    "119911": {
+      "name": "The Friendly Fire Department: Rapid Response Div.",
+      "count": 103,
+      "archetype": "3",
+      "lang": ""
+    },
+    "9528": {
+      "name": "远征舰队",
+      "count": 103,
+      "archetype": "5",
+      "lang": ""
+    },
+    "FEDMI": {
+      "name": "FEDERACAO MILITAR INTERGALACTICA",
+      "count": 103,
+      "archetype": "3",
+      "lang": ""
+    },
+    "PICOCOM": {
+      "name": "Commonwealth of Pico",
+      "count": 103,
+      "archetype": "1",
+      "lang": ""
+    },
+    "ORGACRO": {
+      "name": "ACRO",
+      "count": 103,
+      "archetype": "1",
+      "lang": ""
+    },
+    "ROGR": {
+      "name": "Reliant Owners Group",
+      "count": 103,
+      "archetype": "6",
+      "lang": ""
+    },
+    "LARCHE": {
+      "name": "L'Arche",
+      "count": 103,
+      "archetype": "2",
+      "lang": ""
+    },
+    "R17": {
+      "name": "Vega IronSides",
+      "count": 103,
+      "archetype": "1",
+      "lang": ""
+    },
+    "CLOUDAS": {
+      "name": "云图帝国Cloudas Imperium",
+      "count": 103,
+      "archetype": "1",
+      "lang": ""
+    },
+    "4ACE": {
+      "name": "The Four Aces",
+      "count": 103,
+      "archetype": "3",
+      "lang": ""
+    },
+    "TAYKO": {
+      "name": "Tayko Corp Industries",
+      "count": 102,
+      "archetype": "2",
+      "lang": ""
+    },
+    "SPNR": {
+      "name": "SPOONER CREW",
+      "count": 102,
+      "archetype": "1",
+      "lang": ""
+    },
+    "VNMSQD": {
+      "name": "Venom Squadron",
+      "count": 102,
+      "archetype": "1",
+      "lang": ""
+    },
+    "NOPIXEL": {
+      "name": "nopixel",
+      "count": 102,
+      "archetype": "4",
+      "lang": ""
+    },
+    "CONVERGE": {
+      "name": "Heralds of Convergence",
+      "count": 102,
+      "archetype": "4",
+      "lang": ""
+    },
+    "HDEF": {
+      "name": "Horizon Defense",
+      "count": 101,
+      "archetype": "3",
+      "lang": ""
+    },
+    "DEFCORP": {
+      "name": "DEFCORP",
+      "count": 101,
+      "archetype": "3",
+      "lang": ""
+    },
+    "ARWEN": {
+      "name": "Arwen 晨星",
+      "count": 101,
+      "archetype": "1",
+      "lang": ""
+    },
+    "GIANTLEAP": {
+      "name": "Giant Leap",
+      "count": 101,
+      "archetype": "1",
+      "lang": ""
+    },
+    "IMMOBILES": {
+      "name": "Immobile Industries",
+      "count": 101,
+      "archetype": "2",
+      "lang": ""
+    },
+    "ISTD": {
+      "name": "Imminent Solutions Tactical Defense",
+      "count": 101,
+      "archetype": "3",
+      "lang": ""
+    },
+    "JAVELIN": {
+      "name": "Javelin Owners Club",
+      "count": 101,
+      "archetype": "1",
+      "lang": ""
+    },
+    "ZSU": {
+      "name": "Z Strategic Union",
+      "count": 101,
+      "archetype": "2",
+      "lang": ""
+    },
+    "ANDROPMC": {
+      "name": "Crimson Armada",
+      "count": 100,
+      "archetype": "1",
+      "lang": ""
+    },
+    "TMHA": {
+      "name": "The Mongrel Horde Armada",
+      "count": 100,
+      "archetype": "5",
+      "lang": ""
+    },
+    "COSMICCO": {
+      "name": "Cosmic Coalition",
+      "count": 100,
+      "archetype": "1",
+      "lang": ""
+    },
+    "GRIEFERNET": {
+      "name": "GrieferNet",
+      "count": 100,
+      "archetype": "5",
+      "lang": ""
+    },
+    "OMNIDYN": {
+      "name": "OmniDynamics",
+      "count": 100,
+      "archetype": "2",
+      "lang": ""
+    },
+    "ORMR": {
+      "name": "Outer Reach and Mining Research",
+      "count": 100,
+      "archetype": "2",
+      "lang": ""
+    },
+    "STAT": {
+      "name": "Sirius Transport and Trading",
+      "count": 100,
+      "archetype": "2",
+      "lang": ""
+    },
+    "ORO": {
+      "name": "Orange Rose Corp =NL=",
+      "count": 100,
+      "archetype": "3",
+      "lang": ""
+    },
+    "ALPHAC": {
+      "name": "Alpha Centauri",
+      "count": 100,
+      "archetype": "1",
+      "lang": ""
+    }
   }
 }
